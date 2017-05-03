@@ -1,2 +1,6 @@
 # javascript-karma-mock-sinon
-move to folder node_module/Karma/bin ->>>> ./karma start karma.conf.js 
+install globle karma
+sudo npm install -g karma-cli
+
+Run
+karma start karma.conf.js
